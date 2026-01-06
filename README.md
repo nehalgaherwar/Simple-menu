@@ -36,3 +36,7 @@ You can customize the menu by editing the `menu.css` file:
 - 🎨 Change colors by modifying the background and color properties
 - 📏 Adjust font sizes and padding
 - 🔄 Modify the dropdown behavior
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE). 📄
+
